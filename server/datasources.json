@@ -1,0 +1,17 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "mongoatlas": {
+    "host": "",
+    "port": 27017,
+    "url": "mongodb+srv://admin:abc123456@phone-book-api-0x9hr.mongodb.net/phoneBook?retryWrites=true&w=majority",
+    "database": "phoneBook",
+    "password": "abc123456",
+    "name": "mongoatlas",
+    "user": "admin",
+    "useNewUrlParser": true,
+    "connector": "mongodb"
+  }
+}
